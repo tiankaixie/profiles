@@ -6,7 +6,7 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family:  "Golos Text VF",  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,'Helvetica Neue', Oxygen, Ubuntu, Cantarell, 'Open Sans',  sans-serif;
 }
 
 hr {
@@ -115,7 +115,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 40%;
     .address {
       p { display: block; }
     }
