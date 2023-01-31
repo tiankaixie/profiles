@@ -28,35 +28,28 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Associate 
+      institution: VADER Lab, Arizona State University, Tempe, AZ 
+      year: 2018 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - <span>Advisor:</span> Ross Maciejewski
+        - Work as a research assistant for the VADER Lab with the research topics in Explainable AI and Visual Analytics. Current dissertation topic is 'Explaining the vulnerabilities of machine learning models through visual analytics'. Passed dissertation prospectus in Fall 2021.
+        - <span>Link:</span> <a href="https://vader.lab.asu.edu/"> VADER Lab </a>
+
+    - title: Data Scientist, Intern
+      institution: Epsilon Data Management, LLC., Chicago, IL
+      year: May 2021 - August 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Designed and implemented the algorithm to extract highlights from the aggregated audience data across 2500+ companies. Designed, implemented and integrated the Intelligent Audience Profile (IAP) visualization view driven by the designed highlighting algorithm into the DiME visual analytics platform.
+        - <span>Link:</span> <a href="https://www.epsilon.com/us/products-and-services/epsilon-peoplecloud/digital-media-solutions"> Epsilon & DIME </a>
+    - title: Co-founder
+      institution: RobotGyms, Inc., San Mateo, CA
+      year: July 2017 - May 2018
       description:
+        - Designed, implemented Robotgyms's infrastructure and curriculum. and maintained the company's teaching devices, including local network and devices' software and hardware installation and upgrade. Developed policies and training plans for online resource administration and usage. Give lectures for 40+ students and took charge of customer consultation, and conducted SEO and SMO for branding programs as well as the company.
+        - <span>Link:</span>  <a href="https://robotgyms.com/">Robotgyms Inc.</a>
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+
 
 - title: Open Source Projects
   type: time_table
