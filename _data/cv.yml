@@ -20,17 +20,17 @@
         - <span>Committee:</span> Ross Maciejewski, Huan Liu, Chris Bryan, and Hanghang Tong
     - title: M.S. in Computer Science
       institution: Stevens Institute of Technology, Hoboken, NJ
-      year: Aug. 2015 - May 2017
+      year: August 2015 - May 2017
     - title: B.S. in Computer Science
       institution: Beijing Forestry University, Beijing 
-      year: Sep. 2011 - July 2015
+      year: September 2011 - July 2015
 
 - title: Experience
   type: time_table
   contents:
     - title: Graduate Research Associate 
       institution: VADER Lab, Arizona State University, Tempe, AZ 
-      year: 2018 - Present
+      year: August 2018 - Present
       description:
         - <span>Advisor:</span> Ross Maciejewski
         - Work as a research assistant for the VADER Lab with the research topics in Explainable AI and Visual Analytics. Current dissertation topic is 'Explaining the vulnerabilities of machine learning models through visual analytics'. Passed dissertation prospectus in Fall 2021.
@@ -49,39 +49,50 @@
         - Designed, implemented Robotgyms's infrastructure and curriculum. and maintained the company's teaching devices, including local network and devices' software and hardware installation and upgrade. Developed policies and training plans for online resource administration and usage. Give lectures for 40+ students and took charge of customer consultation, and conducted SEO and SMO for branding programs as well as the company.
         - <span>Link:</span>  <a href="https://robotgyms.com/">Robotgyms Inc.</a>
 
-
-
-- title: Open Source Projects
+- title: Invited Talks
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - year: October 2021
       items:
-        - Description 1.
-        - Description 2.
+        - <span>FairRankVis:</span> A Visual Analytics Framework for Exploring Algorithmic Fairness in Graph Mining Models. IEEE Conference on Visualization and Visual Analytics
+    - year: October 2020
+      items:
+        - Auditing the Sensitivity of Graph-based Ranking with Visual Analytics. IEEE Conference on Visualization and Visual Analytics
+    - year: October 2019
+      items:
+        - Explaining vulnerabilities to adversarial machine learning through visual analytics. IEEE Conference on Visual Analytics Science and Technology (VAST)
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
